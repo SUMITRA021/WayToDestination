@@ -32,7 +32,7 @@
 4. Follow the AR path that appeared on the phone screen to reach the destination.
 
 ## Contribution
-I would like to extend my utmost gratitude to my teammates **@Divyahegde018 @Pranathi-00-V**. Thank you for your hard work this past weeks. Your dedication helped us reach our goals. I deeply appreciate every member of this team for showing relentless effort for this project.
+I would like to extend my utmost gratitude to my teammates **@Divyahegde018, @Pranathi-00-V and Pooja D S**. Thank you for your hard work this past weeks. Your dedication helped us reach our goals. I deeply appreciate every member of this team for showing relentless effort for this project.
 
 ## DEMO
 
