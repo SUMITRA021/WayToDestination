@@ -1,4 +1,5 @@
 # WayToDestination
+
 **An AR-based indoor navigation application that would direct users to their desired location inside the NMIT campus based on their current location using virtual arrows.**
 
 
@@ -30,6 +31,8 @@
 3. Hold the phone camera facing the corridors.
 4. Follow the AR path that appeared on the phone screen to reach the destination.
 
+## Contribution
+I would like to extend my utmost gratitude to my teammates **@Divyahegde018 @Pranathi-00-V**. Thank you for your hard work this past weeks. Your dedication helped us reach our goals. I deeply appreciate every member of this team for showing relentless effort for this project.
 
 ## DEMO
 
