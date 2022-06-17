@@ -46,5 +46,9 @@ https://user-images.githubusercontent.com/64164353/174327857-491a3f21-9c3a-4d53-
 ### 3. QR Code To Install the application.
 <img src="https://user-images.githubusercontent.com/64164353/174327916-638ed6bf-b4e6-4282-bed0-30c356d8648a.png" width="200" height="200">
 
+
 ### 4. Implementation of navigation to multiple destination.
-![WayToDestination](https://drive.google.com/file/d/1PFh9wU8FkrjhR4VdYQultXuocdr3Qe_l/view?usp=sharing)
+
+https://user-images.githubusercontent.com/64164353/174399288-b6346bd0-df06-42c2-ba8c-299505501201.mp4
+
+
