@@ -36,3 +36,15 @@ I would like to extend my utmost gratitude to my teammates **@Divyahegde018, @Pr
 
 ## DEMO
 
+### 1. Initial stage - Implementation & testing of object placement on floor.
+https://user-images.githubusercontent.com/64164353/174326871-a164705c-14a5-4368-bf61-9b881eaa5c01.mp4
+
+### 2. Implementation of navigation to a single destination.
+https://user-images.githubusercontent.com/64164353/174327857-491a3f21-9c3a-4d53-acb8-01eb708736c8.mp4
+
+
+### 3. QR Code To Install the application.
+<img src="https://user-images.githubusercontent.com/64164353/174327916-638ed6bf-b4e6-4282-bed0-30c356d8648a.png" width="200" height="200">
+
+### 4. Implementation of navigation to multiple destination.
+
