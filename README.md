@@ -47,4 +47,4 @@ https://user-images.githubusercontent.com/64164353/174327857-491a3f21-9c3a-4d53-
 <img src="https://user-images.githubusercontent.com/64164353/174327916-638ed6bf-b4e6-4282-bed0-30c356d8648a.png" width="200" height="200">
 
 ### 4. Implementation of navigation to multiple destination.
-<a href="https://drive.google.com/uc?export=view?usp=sharing&id=<FILEID>"><img src="https://drive.google.com/file/d/1PFh9wU8FkrjhR4VdYQultXuocdr3Qe_l/view?usp=sharing&id=<FILEID>" style="width: 650px; max-width: 100%; height: auto" title="WayToDestination" />
+![WayToDestination](https://drive.google.com/file/d/1PFh9wU8FkrjhR4VdYQultXuocdr3Qe_l/view?usp=sharing)
