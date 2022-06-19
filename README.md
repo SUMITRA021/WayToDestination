@@ -49,6 +49,8 @@ https://user-images.githubusercontent.com/64164353/174327857-491a3f21-9c3a-4d53-
 
 ### 4. Implementation of navigation to multiple destination.
 
-https://user-images.githubusercontent.com/64164353/174399288-b6346bd0-df06-42c2-ba8c-299505501201.mp4
+<img src="https://user-images.githubusercontent.com/64164353/174399288-b6346bd0-df06-42c2-ba8c-299505501201.mp4" width="400" height="400">
+
+
 
 
